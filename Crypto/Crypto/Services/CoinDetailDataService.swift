@@ -15,6 +15,7 @@ class CoinDetailDataService {
     var coinDetailSubscription: AnyCancellable?
     let coin: Coin
     
+    
     init(coin: Coin) {
         self.coin = coin
         getCoinDetails()

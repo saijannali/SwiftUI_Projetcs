@@ -23,6 +23,7 @@ struct CryptoApp: App {
                 HomeView()
                     .navigationBarHidden(true)
             }
+            .navigationViewStyle(StackNavigationViewStyle())
             .environmentObject(vm)
         }
     }
