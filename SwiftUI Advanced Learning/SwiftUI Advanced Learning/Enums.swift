@@ -18,5 +18,5 @@ struct CarBrand {
 
 //var car1: CarModel = CarModel(brand: "Ford", model: "Fiesta")
 //var car2: CarModel = CarModel(brand: "Ford", model: "Focus")
-x
-var car1: CarModel = CarModel(brand: <#T##CarBrand#>, model: <#T##String#>)
+let brandName = CarBrand(title: "Honda")
+var car1: CarModel = CarModel(brand: brandName, model: "Camry")

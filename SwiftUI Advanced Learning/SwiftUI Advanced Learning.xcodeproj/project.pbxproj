@@ -12,6 +12,7 @@
 		E50224CF2A54A4A400EE8653 /* HashableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E50224CE2A54A4A400EE8653 /* HashableBootcamp.swift */; };
 		E52748F42A5B60BA00508A77 /* Enums.swift in Sources */ = {isa = PBXBuildFile; fileRef = E52748F32A5B60BA00508A77 /* Enums.swift */; };
 		E55499042A53319900FCD391 /* MultipleSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E55499032A53319900FCD391 /* MultipleSheetsBootcamp.swift */; };
+		E55A2A4C2AC27EAE00200C19 /* StructClassActorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E55A2A4B2AC27EAE00200C19 /* StructClassActorBootcamp.swift */; };
 		E57CA5D92A565CBD00C4D627 /* MVVMBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E57CA5D82A565CBD00C4D627 /* MVVMBootcamp.swift */; };
 		E5C0EDA12A57AD9100274A1E /* BackgroundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C0EDA02A57AD9100274A1E /* BackgroundThreadBootcamp.swift */; };
 		E5C0EDA32A57BC0300274A1E /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C0EDA22A57BC0300274A1E /* WeakSelfBootcamp.swift */; };
@@ -30,6 +31,7 @@
 		E50224CE2A54A4A400EE8653 /* HashableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableBootcamp.swift; sourceTree = "<group>"; };
 		E52748F32A5B60BA00508A77 /* Enums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enums.swift; sourceTree = "<group>"; };
 		E55499032A53319900FCD391 /* MultipleSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcamp.swift; sourceTree = "<group>"; };
+		E55A2A4B2AC27EAE00200C19 /* StructClassActorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructClassActorBootcamp.swift; sourceTree = "<group>"; };
 		E57CA5D82A565CBD00C4D627 /* MVVMBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVMBootcamp.swift; sourceTree = "<group>"; };
 		E5C0EDA02A57AD9100274A1E /* BackgroundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadBootcamp.swift; sourceTree = "<group>"; };
 		E5C0EDA22A57BC0300274A1E /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 				E5C0EDA22A57BC0300274A1E /* WeakSelfBootcamp.swift */,
 				E5C0EDA42A57C79C00274A1E /* EscapingBootcamp.swift */,
 				E52748F32A5B60BA00508A77 /* Enums.swift */,
+				E55A2A4B2AC27EAE00200C19 /* StructClassActorBootcamp.swift */,
 				E5FC88552A54E04300D62C30 /* FruitsContainer.xcdatamodeld */,
 				E5DC55E72A52036600D014AD /* Assets.xcassets */,
 				E5DC55E92A52036600D014AD /* Preview Content */,
@@ -170,6 +173,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E55A2A4C2AC27EAE00200C19 /* StructClassActorBootcamp.swift in Sources */,
 				E5C0EDA52A57C79C00274A1E /* EscapingBootcamp.swift in Sources */,
 				E50224CF2A54A4A400EE8653 /* HashableBootcamp.swift in Sources */,
 				E5DC55E42A52036400D014AD /* SwiftUI_Advanced_LearningApp.swift in Sources */,
