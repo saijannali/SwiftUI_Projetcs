@@ -24,7 +24,11 @@ struct StructClassActorBootcamp_Previews: PreviewProvider {
 
 struct MyStruct {
     var title: String
+    
+    static let product: String = "sesame"
 }
+
+
  
 extension StructClassActorBootcamp {
     private func runTest() {
