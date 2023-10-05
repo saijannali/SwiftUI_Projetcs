@@ -28,7 +28,6 @@ struct MyStruct {
     static let product: String = "sesame"
 }
 
-
  
 extension StructClassActorBootcamp {
     private func runTest() {
@@ -49,3 +48,31 @@ extension StructClassActorBootcamp {
         print("ObjectB: ", objectB.title)
     }
 }
+
+class MyClass {
+    var title: String
+    
+    init(title: String) {
+        self.title = title
+    }
+    
+    func addNode(val: Int){
+        
+    }
+}
+
+
+//class LinkedList<T>{
+//    
+//    let head: Node
+//    var currentNode: Node? = nil
+//    
+//    init(headVal: T) {
+//        self.head = Node(headVal)
+//        self.currentNode = self.head
+//    }
+//    
+//    func addNode(val: T) {
+//        currentNode.right = Node(val, nil)
+//    }
+//}
